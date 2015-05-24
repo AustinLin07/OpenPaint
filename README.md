@@ -6,7 +6,7 @@ Incorporate the tools usability of Inkscape, integrate vector graphics editing i
 ###1.Shape tool:  
 To draw basic shapes; provide an checkbox option:  
 □ Create on new layer  
-    Desc. : Create the drawn shape on new layer  
+    Desc. : Create the drawn shape object on new layer or on current layer  
 ###2.Convenient scale/rotation objects  
 Represents the objects as vectors to facilitate scale/rotation
 
