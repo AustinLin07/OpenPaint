@@ -10,5 +10,8 @@ To draw basic shapes; provide an checkbox option:
 ###2.Convenient scale/rotation objects  
 Represents the objects as vectors to facilitate scale/rotation
 
+###3.Built-in support batch processing  
+Built-in support batch processing for most operations
+
 ## Implementation
 OpenPaint is written in Qt and C++.
