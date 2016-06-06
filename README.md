@@ -15,3 +15,6 @@ Built-in support batch processing for most operations
 
 ## Implementation
 OpenPaint is written in Qt and C++.
+
+## Wiki Pages
+More info could be found on [wiki pages](https://github.com/AustinLin07/OpenPaint/wiki)
