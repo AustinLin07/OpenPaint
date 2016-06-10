@@ -63,7 +63,7 @@ MainWindow::MainWindow()
 
     readSettings();
 
-    setWindowTitle(tr("MDI"));
+    setWindowTitle(tr("OpenPaint"));
     setUnifiedTitleAndToolBarOnMac(true);
 }
 
